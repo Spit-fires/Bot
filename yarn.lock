@@ -329,7 +329,7 @@ __metadata:
     ngrok: ^4.3.1
     prettier: ^2.7.1
     prisma: ^4.1.0
-    rollup: ^2.77.0
+    rollup: ^3.11.0
     rollup-plugin-inject-process-env: ^1.3.1
     rollup-plugin-uglify: ^6.0.4
     tslib: ^2.4.0
@@ -3581,9 +3581,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.77.0":
-  version: 2.77.0
-  resolution: "rollup@npm:2.77.0"
+"rollup@npm:^3.11.0":
+  version: 3.11.0
+  resolution: "rollup@npm:3.11.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -3591,7 +3591,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 74ccc98429709984a89af636250833e7502d87f1d9c6d96ebfe4b52030ebf94b9f6b84b8ab476670329a61d54b681d35eecdc601bac5b5396b099b1ea69970ef
+  checksum: ba9fe9ec8926195c6d4c91c08888fd1be01651dd79db4cff1c3fe8514f3e65be06beb8c6b087ea4145edb2542743fff20e99b4e919f4e2fa45438ee09498ad21
   languageName: node
   linkType: hard
 
